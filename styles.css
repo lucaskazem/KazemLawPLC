@@ -1,0 +1,21 @@
+
+
+#logo {
+    float: left;
+    width: 939px;
+    height: 200px;
+    margin-left: 10px;
+    background: url(https://kazemlaw.com/images/header.jpg) no-repeat left top;
+}
+
+#body {
+    margin: 0;
+    padding: 0;
+    background: #3c3d3c;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: #bfacac;
+}
+
+
+
+
